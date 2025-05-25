@@ -1,74 +1,49 @@
 <html>
-    <meta charset="UTF-8">
-    <h1>Топ 10 шахматистов 2025 года</h1>
-    <h2>Список составлен на основе рейтинга ФИДЕ</h2>
-    <table style="border: 1px solid black" >
-        <tr style="border: solid black; background: lightblue">
-            <td>№</td>
-            <td>Шахматист</td>
-            <td>Страна</td>
-            <td>Рейтинг</td>
-        </tr>
-        <tr style="border: solid black; background: gold">
-            <td>1</td>
-            <td>Магнус Карлсен</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/330/330542.png" width="40" height="40"></td>
-            <td>2837</td>
-        </tr>
-        <tr style="border: solid black; background: silver">
-            <td>2</td>
-            <td>Хикару Накамура</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/206/206626.png" width="40" height="40"></td>
-            <td>2804</td>
-        </tr>
-        <tr style="border: solid black; background: darkorange">
-            <td>3</td>
-            <td>Гукеш Доммараджу</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/14009/14009677.png" width="40" height="40"></td>
-            <td>2787</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>4</td>
-            <td>Арджун Эригайси</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/14009/14009677.png" width="40" height="40"></td>
-            <td>2782</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>5</td>
-            <td>Фабиано Каруана</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/206/206626.png" width="40" height="40"></td>
-            <td>2776</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>6</td>
-            <td>Нодирбек Абдусатторов</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/330/330495.png" width="40" height="40"></td>
-            <td>2771</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>7</td>
-            <td>Рамешбабу Прагнанандха</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/14009/14009677.png" width="40" height="40"></td>
-            <td>2758</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>8</td>
-            <td>Вэй И</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/330/330651.png" width="40" height="40"></td>
-            <td>2758</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>9</td>
-            <td>Алиреза Фируджа</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/206/206657.png" width="40" height="40"></td>
-            <td>2757</td>
-        </tr>
-        <tr style="border: solid black; background: lightblue">
-            <td>10</td>
-            <td>Ян Непомнящий</td>
-            <td><img src="https://cdn-icons-png.flaticon.com/128/330/330437.png" width="40" height="40"></td>
-            <td>2757</td>
-        </tr>
-    </table>
-    <a href="https://www.championat.com/chess/rating/fide-men/2025-05-01/744/">источник</a>
+    <a href="1/1_1.html">1_1.</a>
+    <p></p>
+    <a href="2/2_1.html">2_1.</a>
+    <a href="2/2_2.html">2_2.</a>
+    <a href="2/2_3.html">2_3.</a>
+    <p></p>
+    <a href="3/3_1.html">3_1.</a>
+    <a href="3/3_2.html">3_2.</a>
+    <a href="3/3_3.html">3_3.</a>
+    <a href="3/3_4.html">3_4.</a>
+    <a href="3/3_5.html">3_5.</a>
+    <a href="3/3_6.html">3_6.</a>
+    <a href="3/3_7.html">3_7.</a>
+    <p></p>
+
+    <a href="4/4_1.html">4_1.</a>
+    <a href="4/4_2.html">4_2.</a>
+    <a href="4/4_3.html">4_3.</a>
+    <a href="4/4_4.html">4_4.</a>
+    <a href="4/4_5.html">4_5.</a>
+    <a href="4/4_6.html">4_6.</a>
+    <p></p>
+
+    <a href="5/5_1.html">5_1.</a>
+    <p></p>
+
+    <a href="6/6_1.html">6_1.</a>
+    <a href="6/6_2.html">6_2.</a>
+    <a href="6/6_3.html">6_3.</a>
+    <p></p>
+
+    <a href="7/7_1.html">7_1.</a>
+    <a href="7/7_2.html">7_2.</a>
+    <a href="7/7_3.html">7_3.</a>
+    <p></p>
+
+    <a href="8/8_1.html">8_1.</a>
+    <a href="8/8_2.html">8_2.</a>
+    <a href="8/8_3.html">8_3.</a>
+    <p></p>
+
+    <a href="9/9_1.html">9_1.</a>
+    <a href="9/9_2.html">9_2.</a>
+    <a href="9/9_3.html">9_3.</a>
+    <a href="9/9_4.html">9_4.</a>
+    <p></p>
+
 </html>
